@@ -3,8 +3,8 @@
 ## My contacts: ##
 * Phone: +7-700-647-03-46
 * E-mail: ilyaa2400@mail.ru
-* Telegram: @evanlis
-* Instagram: ilyaa2400
+* Telegram: [@evanlis](https://t.me/evanlis)
+* Instagram: [ilyaa2400](https://www.instagram.com/ilyaa2400/)
 
 ## About me: ##
 
