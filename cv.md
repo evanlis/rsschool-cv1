@@ -10,7 +10,7 @@
 
 I am a beginner **Fontend developer**, I studied on my own for half a year, *took several different courses*. I have now enrolled in **RS Shool** and I hope that everything will work out. * Full of motivation, desire to learn and code!
 
-## Skills and Proficiency:##
+## Skills and Proficiency: ##
 
 * HTML
 * CSS
@@ -49,7 +49,7 @@ function zeros (n) {
   * [Marathon: 5 days - 5 JavaScript projects at Result.School](https://fs-thb01.getcourse.ru/fileservice/file/thumbnail/h/c27e1d165b64f6e231da85caebea1379.png/s/800x/a/177331/sc/284/ "Link to certificate")
   * [HTML&CSS at Result.School](https://fs-thb02.getcourse.ru/fileservice/file/thumbnail/h/0ed3ad4db6201dc4120491c7e397caf4.png/s/800x/a/177331/sc/224/ "Link to certificate")
 
-## Languages:##
+## Languages: ##
 
 * Ukrainian - native
 * Russian - native
